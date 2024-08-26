@@ -277,7 +277,7 @@
 
   .banner__heading {
     margin: auto;
-    font-size: 8vw;
+    font-size: 8vw !important;
   }
 
   .banner__box>*+.banner__buttons {
