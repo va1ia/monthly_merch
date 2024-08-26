@@ -3,6 +3,12 @@
   src: url('../assets/GT-Eesti-Display-Medium.woff2');
 }
 
+@font-face {
+  font-family: 'graphik';
+  src: url('../assets/Graphik-Regular.woff');
+  font-weight: 400;
+}
+
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;
