@@ -1248,8 +1248,7 @@ button.shopify-payment-button__button--unbranded {
   left: 0;
   z-index: -1;
   border-radius: 15px;
-  box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius)
-    rgba(var(--color-shadow), var(--shadow-opacity));
+  box-shadow: #282828;
 }
 
 .button:after,
@@ -2918,7 +2917,7 @@ details-disclosure > details {
 }
 
 .gradient {
-  background: #3d8054;
+  background: #f5f5ed;
   background-attachment: fixed;
 }
 
