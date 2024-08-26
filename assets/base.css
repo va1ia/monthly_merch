@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'eesti';
-  src: url('/assets/GT-Eesti-Display-Medium.woff2');
+  src: url('../assets/GT-Eesti-Display-Medium.woff2');
 }
 
 :root {
