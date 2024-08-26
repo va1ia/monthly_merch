@@ -13,6 +13,8 @@
 .newsletter__wrapper > * {
   margin-top: 0;
   margin-bottom: 0;
+  font-family:'eesti';
+  font-weight: 400;
 }
 
 .newsletter__wrapper > * + * {
@@ -27,7 +29,8 @@
   max-width: 70rem;
   margin-left: auto;
   margin-right: auto;
-  font-family:'eesti';
+  font-family:'graphik';
+  color: #282828;
 }
 
 .newsletter__wrapper .newsletter-form__field-wrapper {
