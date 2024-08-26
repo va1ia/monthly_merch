@@ -1142,6 +1142,10 @@ summary::-webkit-details-marker {
     max-width: none;
     width: auto;
   }
+
+  .grid {
+    row-gap: 20px;
+  }
 }
 
 .media > img {
