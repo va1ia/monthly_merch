@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/HOME_fbfda7d3-213f-428a-bc14-c94c4cbdb2f3.jpg",
             "heading": "Browse our latest products",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "",
             "button_label": "Shop all",
             "link": "shopify:\/\/collections\/all",
