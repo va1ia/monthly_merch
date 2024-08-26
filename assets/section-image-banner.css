@@ -330,11 +330,18 @@
 @media screen and (max-width: 749px) {
   .banner--mobile-bottom:not(.banner--stacked) .banner__content {
     order: 2;
+    top: -44vw;
+    margin-bottom: -30vh;
   }
 
   .banner:not(.banner--mobile-bottom) .field__input,
   .banner--mobile-bottom:not(.banner--stacked) .banner__box.color-scheme-1 {
     background: transparent;
+  }
+
+  .banner__heading {
+    width: 60%;
+    font-size: 5.5vw;
   }
 }
 
