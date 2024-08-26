@@ -216,9 +216,9 @@
 .banner--adapt,
 .banner--adapt_image.banner--mobile-bottom .banner__media:not(.placeholder) {
   height: auto;
-  border-radius: var(--product-card-corner-radius);
+  /* border-radius: var(--product-card-corner-radius);
   border-top-left-radius: 0;
-  border-top-right-radius: 0;
+  border-top-right-radius: 0; */
 }
 
 @media screen and (max-width: 749px) {
