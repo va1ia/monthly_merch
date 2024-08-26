@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'eesti';
+  src: url('/assets/GT-Eesti-Display-Medium.woff2') format('woff2');
+}
+
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;
@@ -109,6 +114,8 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   .utility-bar__grid.page-width {
     padding-left: 3.2rem;
     padding-right: 3.2rem;
+    background-color: #3d8054;
+
   }
 
   .page-width--narrow {
@@ -2134,7 +2141,7 @@ input[type='checkbox'] {
   color: rgb(var(--color-foreground));
   width: 100%;
   height: 100%;
-  display: flex;
+  display: none;
   justify-content: center;
   flex-wrap: wrap;
   align-content: center;
@@ -2431,7 +2438,8 @@ input[type='checkbox'] {
 
 .header__heading-link .h2 {
   line-height: 1;
-  color: rgba(var(--color-foreground), 0.75);
+  color: #f5f5ed;
+  font-family: "eesti";
 }
 
 .header__heading-logo {
