@@ -769,7 +769,6 @@ summary::-webkit-details-marker {
 
 .title-wrapper-with-link .title {
   margin: 0;
-  text-align: center;
 }
 
 .title .link {
@@ -852,6 +851,9 @@ summary::-webkit-details-marker {
 
 .title-wrapper--no-top-margin > .title {
   margin-top: 0;
+  text-align: center;
+  color: #3d8054;
+  font-family:'eesti';
 }
 
 .subtitle {
