@@ -1227,11 +1227,11 @@ button.shopify-payment-button__button--unbranded {
   font-family: 'eesti';
   font-size: 1.5rem;
   text-decoration: none;
-  color: #3d8054;
+  color: #282828;
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
-  background-color: #e5e9d9;
+  background-color: #eea494;
 }
 
 .button:before,
@@ -1247,7 +1247,7 @@ button.shopify-payment-button__button--unbranded {
   bottom: 0;
   left: 0;
   z-index: -1;
-  border-radius: var(--buttons-radius-outset);
+  border-radius: 15px;
   box-shadow: var(--shadow-horizontal-offset) var(--shadow-vertical-offset) var(--shadow-blur-radius)
     rgba(var(--color-shadow), var(--shadow-opacity));
 }
