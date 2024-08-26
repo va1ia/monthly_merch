@@ -269,6 +269,13 @@
   }
 }
 
+@media screen and (max-width: 475px) {
+  .banner--mobile-bottom .banner__media,
+  .banner--stacked:not(.banner--mobile-bottom) .banner__media {
+    aspect-ratio: 1;
+  }
+}
+
 .banner__content {
   padding: 0;
   display: flex;
