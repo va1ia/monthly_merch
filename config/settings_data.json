@@ -201,12 +201,12 @@
       },
       "scheme-7cba1dfa-25d1-4534-a816-dc4cbccb25fd": {
         "settings": {
-          "background": "#eff0f5",
+          "background": "#e5e9d9",
           "background_gradient": "",
           "text": "#3d8054",
-          "button": "#4770db",
+          "button": "#eea494",
           "button_label": "#eff0f5",
-          "secondary_button_label": "#0e1b4d",
+          "secondary_button_label": "#282828",
           "shadow": "#282828"
         }
       }
