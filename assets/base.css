@@ -1224,14 +1224,14 @@ button.shopify-payment-button__button--unbranded {
   border: 0;
   padding: 0 3rem;
   cursor: pointer;
-  font: inherit;
+  font-family: 'eesti';
   font-size: 1.5rem;
   text-decoration: none;
-  color: rgb(var(--color-button-text));
+  color: #3d8054;
   transition: box-shadow var(--duration-short) ease;
   -webkit-appearance: none;
   appearance: none;
-  background-color: rgba(var(--color-button), var(--alpha-button-background));
+  background-color: #e5e9d9;
 }
 
 .button:before,
