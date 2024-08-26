@@ -333,8 +333,8 @@
 @media screen and (max-width: 749px) {
   .banner--mobile-bottom:not(.banner--stacked) .banner__content {
     order: 2;
-    top: -44vw;
-    margin-bottom: -30vh;
+    position: absolute;
+    top: calc(14vw - 40px)
   }
 
   .banner:not(.banner--mobile-bottom) .field__input,
