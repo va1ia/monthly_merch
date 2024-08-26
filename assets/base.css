@@ -560,8 +560,9 @@ hr {
 
 .full-unstyled-link {
   text-decoration: none;
-  color: currentColor;
+  color: #282828;
   display: block;
+  font-family:'eesti';
 }
 
 .placeholder {
