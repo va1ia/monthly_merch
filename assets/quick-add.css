@@ -359,6 +359,7 @@ quick-add-modal .product-form__buttons {
   min-width: 100%;
   box-sizing: border-box;
   background: #e5e9d9;
+  color: #3d8054;
 }
 
 quick-add-modal .product-media-container.constrain-height {
