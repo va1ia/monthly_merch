@@ -281,7 +281,7 @@
 
   .banner__box>*+.banner__buttons {
     margin: auto;
-    transform: scale(1);
+    transform: scale(1) !important;
   }
 }
 
