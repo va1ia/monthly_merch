@@ -1077,6 +1077,13 @@ summary::-webkit-details-marker {
   }
 }
 
+@media screen and (max-width: 475px) {
+
+  .grid--2-col-tablet-down .grid__item {
+    width: 100%;
+  }
+}
+
 @media screen and (min-width: 750px) and (max-width: 989px) {
   .slider--tablet.grid--peek .grid__item {
     width: calc(25% - var(--grid-desktop-horizontal-spacing) - 3rem);
