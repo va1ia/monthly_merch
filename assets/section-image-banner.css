@@ -486,6 +486,7 @@
 
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
+  transform-origin: top left;
 }
 
 @media screen and (max-width: 749px) {
@@ -493,6 +494,10 @@
   .banner:not(.slideshow) .inline-richtext a:hover,
   .banner:not(.slideshow) .rte a:hover {
     color: currentColor;
+  }
+
+  .banner__box > * + .banner__buttons {
+    transform: scale(0.8);
   }
 }
 
