@@ -274,6 +274,15 @@
   .banner--stacked:not(.banner--mobile-bottom) .banner__media {
     aspect-ratio: 1;
   }
+
+  .banner__heading {
+    margin: auto;
+  }
+
+  .banner__box>*+.banner__buttons {
+    margin: auto;
+    transform-origin: top center;
+  }
 }
 
 .banner__content {
@@ -492,7 +501,7 @@
 }
 
 .banner__box > * + .banner__buttons {
-  margin-top: 2rem;
+  margin-top: 2rem !important;
   transform-origin: top left;
 }
 
