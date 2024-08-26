@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'eesti';
-  src: url('/assets/GT-Eesti-Display-Medium.woff2') format('woff2');
+  src: url('/assets/GT-Eesti-Display-Medium.woff2');
 }
 
 :root {
@@ -2439,7 +2439,7 @@ input[type='checkbox'] {
 .header__heading-link .h2 {
   line-height: 1;
   color: #f5f5ed;
-  font-family: "eesti";
+  font-family: 'eesti';
 }
 
 .header__heading-logo {
