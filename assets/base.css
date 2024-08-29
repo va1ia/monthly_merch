@@ -3612,6 +3612,10 @@ h1, .h0 {
   font-weight: 400;
 }
 
+.h0 {
+  color: #3d8054;
+}
+
 body, .text-body, .select__select{
   font-family: "graphik";
 }
