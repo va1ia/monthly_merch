@@ -1134,7 +1134,11 @@ summary::-webkit-details-marker {
   left: 0;
   height: 100%;
   width: 100%;
-  border: 1.5px solid #282828;
+}
+
+.media > *:not(.zoom):not(.deferred-media__poster-button),
+.media model-viewer .product-media-container {
+    border: 1.5px solid #282828;
 }
 
 @media screen and (max-width: 475px) {
