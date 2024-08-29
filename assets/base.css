@@ -3623,3 +3623,7 @@ body, .text-body, .select__select{
 :root, .color-scheme-1 {
   color-button: #282828 !important;
 }
+
+body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-7cba1dfa-25d1-4534-a816-dc4cbccb25fd {
+    color: #282828;
+}
