@@ -1303,6 +1303,7 @@ button.shopify-payment-button__button--unbranded {
   --border-offset: 1.3px;
 box-shadow: 0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(40, 40, 40, 1),
   0 0 0 calc(var(--buttons-border-width) + 1px) rgba(40, 40, 40, 1);
+}
 
 .button--secondary:after {
   --border-opacity: var(--buttons-border-opacity);
