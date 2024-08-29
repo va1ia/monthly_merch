@@ -3619,5 +3619,5 @@ body, .text-body, .select__select{
 }
 
 :root, .color-scheme-1 {
-  color-button: #282828;
+  color-button: #282828 !important;
 }
