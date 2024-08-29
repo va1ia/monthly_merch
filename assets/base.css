@@ -3615,7 +3615,7 @@ h1, .h0, .h4, h2 {
   color: #3d8054;
 }
 
-body, .text-body, .select__select{
+body, .text-body, .select__select, .h5, .field__input{
   font-family: "graphik";
 }
 
