@@ -1136,7 +1136,7 @@ summary::-webkit-details-marker {
   width: 100%;
 }
 
-.media > *:not(.zoom):not(.deferred-media__poster-button) .product__media {
+.product__media {
     border: 1.5px solid #282828;
 }
 
