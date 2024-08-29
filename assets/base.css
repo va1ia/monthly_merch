@@ -3631,4 +3631,5 @@ body, .h4, h2, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-
 
 .color-scheme-3 {
     --color-background: 255, 255, 255;
+    --color-foreground: 40, 40, 40;
 }
