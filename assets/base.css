@@ -3617,3 +3617,7 @@ h1 {
 body, .text-body, .select__select{
   font-family: "graphik";
 }
+
+:root, .color-scheme-1 {
+  color-button: #282828;
+}
