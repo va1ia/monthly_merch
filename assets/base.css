@@ -3607,7 +3607,7 @@ details-disclosure > details {
   }
 }
 
-h1 {
+h1， .h0 {
   font-family:"eesti";
   font-weight: 400;
 }
