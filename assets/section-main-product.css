@@ -902,6 +902,7 @@ a.product__text {
 
 .product__media-list .media > * {
   overflow: hidden;
+  border: 1.5px solid #282828;
 }
 
 .thumbnail-list {
