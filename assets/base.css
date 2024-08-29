@@ -3614,6 +3614,10 @@ h1 {
   font-weight: 400;
 }
 
-body, h2{
+body{
+  font-family: "graphik";
+}
+
+h2{
   font-family: "graphik";
 }
