@@ -3614,6 +3614,6 @@ h1 {
   font-weight: 400;
 }
 
-body, .text-body{
+body, .text-body, .select__select{
   font-family: "graphik";
 }
