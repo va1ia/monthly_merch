@@ -3629,7 +3629,7 @@ body, .h4, h2, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-
     color: #282828;
 }
 
-.color-scheme-3 {
+.color-scheme-3 .search-modal__content-bottom {
     --color-background: 255, 255, 255;
     --color-foreground: 40, 40, 40;
 }
