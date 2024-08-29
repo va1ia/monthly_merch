@@ -1136,8 +1136,7 @@ summary::-webkit-details-marker {
   width: 100%;
 }
 
-.media > *:not(.zoom):not(.deferred-media__poster-button),
-.media model-viewer .product-media-container {
+.media > *:not(.zoom):not(.deferred-media__poster-button) .product-media-container {
     border: 1.5px solid #282828;
 }
 
