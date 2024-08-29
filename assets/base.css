@@ -3612,7 +3612,7 @@ h1, .h0 {
   font-weight: 400;
 }
 
-.h0, .h4 {
+.h0 {
   color: #3d8054;
 }
 
@@ -3624,6 +3624,6 @@ body, .text-body, .select__select{
   color-button: #282828 !important;
 }
 
-body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-7cba1dfa-25d1-4534-a816-dc4cbccb25fd {
+body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-7cba1dfa-25d1-4534-a816-dc4cbccb25fd, .h4 {
     color: #282828;
 }
