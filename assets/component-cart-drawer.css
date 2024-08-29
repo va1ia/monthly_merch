@@ -79,6 +79,7 @@ cart-drawer:not(.is-empty) .cart-drawer__collection {
 .drawer__heading {
   margin: 0 0 1rem;
   color: #282828;
+  font-family:"eesti";
 }
 
 .drawer__close {
